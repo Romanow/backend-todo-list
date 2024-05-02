@@ -1,3 +1,3 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Sat Apr 27 12:01:41 GMT 2024","Sat Apr 27 12:01:47 GMT 2024","5555","","ru.romanow.todolist.TodoListTest","","ru.romanow.todolist.TodoListTest","login","login()",""
-"passed","Sat Apr 27 12:01:47 GMT 2024","Sat Apr 27 12:01:48 GMT 2024","1016","","ru.romanow.todolist.TodoListTest","","ru.romanow.todolist.TodoListTest","items","items()",""
+"passed","Thu May 02 13:54:22 GMT 2024","Thu May 02 13:54:23 GMT 2024","1067","","ru.romanow.todolist.TodoListTest","","ru.romanow.todolist.TodoListTest","items","items()",""
+"passed","Thu May 02 13:54:16 GMT 2024","Thu May 02 13:54:22 GMT 2024","5929","","ru.romanow.todolist.TodoListTest","","ru.romanow.todolist.TodoListTest","login","login()",""
