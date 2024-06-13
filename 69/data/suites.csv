@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Jun 13 19:08:26 GMT 2024","Thu Jun 13 19:08:28 GMT 2024","1334","","ru.romanow.todolist.TodoListTest","","ru.romanow.todolist.TodoListTest","items","items()",""
+"passed","Thu Jun 13 19:08:21 GMT 2024","Thu Jun 13 19:08:26 GMT 2024","5490","","ru.romanow.todolist.TodoListTest","","ru.romanow.todolist.TodoListTest","login","login()",""
