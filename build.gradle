@@ -14,7 +14,7 @@ plugins {
 }
 
 ext {
-    jwtVersion = "4.2.1"
+    jwtVersion = "4.5.0"
     openApiVersion = "2.7.0"
     selenideVersion = "7.6.1"
     allureSelenideVersion = "2.29.1"
