@@ -15,7 +15,7 @@ plugins {
 
 ext {
     jwtVersion = "4.2.1"
-    openApiVersion = "2.7.0"
+    openApiVersion = "2.8.5"
     selenideVersion = "7.6.1"
     allureSelenideVersion = "2.29.1"
     postgresContainerVersion = "1.20.4"
